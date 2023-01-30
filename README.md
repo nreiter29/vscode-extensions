@@ -1,4 +1,4 @@
-# nreiter29-vscode-extensions README
+# vscode-extensions README
 
 ## Working with Markdown
 
