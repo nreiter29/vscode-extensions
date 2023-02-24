@@ -3,38 +3,38 @@
 ## Install the packages with the terminal in VS-Code:
 
 ```
-code --install-extension apollographql.vscode-apollo
-code --install-extension atlassian.atlascode
-code --install-extension christian-kohler.npm-intellisense
-code --install-extension christian-kohler.path-intellisense
-code --install-extension DavidAnson.vscode-markdownlint
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension eamodio.gitlens
-code --install-extension Gruntfuggly.todo-tree
-code --install-extension humao.rest-client
-code --install-extension MariusAlchimavicius.json-to-ts
-code --install-extension meganrogge.template-string-converter
-code --install-extension mhutchie.git-graph
-code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-vsliveshare.vsliveshare
-code --install-extension naumovs.color-highlight
-code --install-extension nicoespeon.abracadabra
-code --install-extension oderwat.indent-rainbow
-code --install-extension pflannery.vscode-versionlens
-code --install-extension quicktype.quicktype
-code --install-extension rangav.vscode-thunder-client
-code --install-extension redhat.vscode-yaml
-code --install-extension richie5um2.vscode-sort-json
-code --install-extension ritwickdey.LiveServer
-code --install-extension shardulm94.trailing-spaces
-code --install-extension shd101wyy.markdown-preview-enhanced
-code --install-extension sleistner.vscode-fileutils
-code --install-extension styled-components.vscode-styled-components
-code --install-extension stylelint.vscode-stylelint
-code --install-extension VisualStudioExptTeam.intellicode-api-usage-examples
-code --install-extension VisualStudioExptTeam.vscodeintellicode
-code --install-extension WallabyJs.console-ninja
-code --install-extension YuTengjing.vscode-colorize-plus
+code --install-extension apollographql.vscode-apollo --force
+code --install-extension atlassian.atlascode --force
+code --install-extension christian-kohler.npm-intellisense --force
+code --install-extension christian-kohler.path-intellisense --force
+code --install-extension DavidAnson.vscode-markdownlint --force
+code --install-extension dbaeumer.vscode-eslint --force
+code --install-extension eamodio.gitlens --force
+code --install-extension Gruntfuggly.todo-tree --force
+code --install-extension humao.rest-client --force
+code --install-extension MariusAlchimavicius.json-to-ts --force
+code --install-extension meganrogge.template-string-converter --force
+code --install-extension mhutchie.git-graph --force
+code --install-extension ms-azuretools.vscode-docker --force
+code --install-extension ms-vsliveshare.vsliveshare --force
+code --install-extension naumovs.color-highlight --force
+code --install-extension nicoespeon.abracadabra --force
+code --install-extension oderwat.indent-rainbow --force
+code --install-extension pflannery.vscode-versionlens --force
+code --install-extension quicktype.quicktype --force
+code --install-extension rangav.vscode-thunder-client --force
+code --install-extension redhat.vscode-yaml --force
+code --install-extension richie5um2.vscode-sort-json --force
+code --install-extension ritwickdey.LiveServer --force
+code --install-extension shardulm94.trailing-spaces --force
+code --install-extension shd101wyy.markdown-preview-enhanced --force
+code --install-extension sleistner.vscode-fileutils --force
+code --install-extension styled-components.vscode-styled-components --force
+code --install-extension stylelint.vscode-stylelint --force
+code --install-extension VisualStudioExptTeam.intellicode-api-usage-examples --force
+code --install-extension VisualStudioExptTeam.vscodeintellicode --force
+code --install-extension WallabyJs.console-ninja --force
+code --install-extension YuTengjing.vscode-colorize-plus --force
 ```
 
 ## Working with Markdown
