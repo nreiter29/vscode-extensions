@@ -3,7 +3,6 @@
 ## Install the packages with the terminal in VS-Code:
 
 ```
-code --install-extension Extensions installed on WSL: Ubuntu-20.04:
 code --install-extension apollographql.vscode-apollo
 code --install-extension atlassian.atlascode
 code --install-extension christian-kohler.npm-intellisense
